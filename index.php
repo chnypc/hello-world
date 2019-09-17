@@ -1,5 +1,5 @@
 <?php
 
-echo "hi medianova";
+echo "hi cihan";
 
 ?>
